@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.search{
+    width: 500px;
+    height: 55px;
+    border: 20 solid;
+    box-sizing: border-box;
+}
